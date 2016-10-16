@@ -1,17 +1,17 @@
 # BAB I 
 # PENDAHULUAN
 
-Latar Belakang Masalah
+Latar Belakang
 
-Sistem  informasi kependudukan merupakan sistem yang mempunyai peran sangat penting dalam pemerintahan dan pembangunan penyelengaraan data kependudukan  yang  diarahkan pada  pemenuhan hak dari setiap warga negara. Sejalan dengan arah penyelengaraan pendataan kependudukan, maka pendaftaran penduduk dan pencatatan sipil sebagai sub pilar kependudukan perlu ditata dengan sebaik-baiknya, agar dapat memberikan manfaat dalam perbaikan pemerintahan dan pembangunan, dimana pengelolaan data penduduk merupakan tanggung jawab  Pemerintahan Kabupaten/Kota, dalam pelaksanaanya diawali dari Rt/Rw/Kelurahan  dan Kecamatan  selaku ujung tombak pendataan penduduk.
+Sistem  informasi kependudukan sangat penting dalam pemerintahan karena guna memantau penduduk di daerah tersebut. Dengan kegiatan pemerintah yaitu penyelengaraan pendataan kependudukan, maka pendaftaran kependudukan serta pencatatan sipil sebagai sub pilar kependudukan perlu ditata dengan lebih baik lagi, agar dapat memberi manfaat dalam perbaikan pemerintahan dan pembangunan, yang dimana pengelolaan data penduduk merupakan tanggung jawab dari instansi pemerintahan seperti kelurahan.
 
-Sistem informasi kependudukan telah banyak dikembangkan oleh Pemerintah untuk mendukung pelayanan terhadap masyarakat, salah satu media yang dimanfaatkan oleh pemerintah adalah media teknologi informasi. Media ini banyak dimanfaatkan oleh  pemerintah  sehingga terbentuklah sebuah konsep elektronik government (e-government) yang telah di rancangan untuk mendukung sistem informasi  pemerintahan, termasuk di dalamnya menyangkut sistem administrasi kependudukan.  
+Sistem informasi kependudukan sudah banyak dikembangkan oleh Pemerintah untuk pelayanan kepada masyarakat, media teknologi informasi menjadi salah satu media yang digunakan pemerintah. Media ini sudah banyak dimanfaatkan oleh  pemerintah  sehingga teciptalah konsep e-government yang sudah di rancangan guna mendukung sistem informasi  pemerintahan, termasuk di dalamnya menyangkut sistem administrasi kependudukan.  
 
-Namun tidak semua instansi pemerintah sudah menggunakan sistem yang kompeterisasi dalam pengelolaan data kependudukan nya, melainkan masih menerapkan sistem manual contohnya pada kelurahan Sarijadi. Hal tersebut sangat disayangkan karena sistem manual akan membutuhkan waktu proses yang lama. Sehingga menjadikan faktor penghambat dalam proses pendataan penduduk.
+Tetapi tidak semua instansi pemerintah telah menerapkan sistem yang terkomputerisasi dalam pengelolaan data kependudukan nya, melainkan masih menerapkan sistem manual contohnya pada kelurahan Sarijadi. Hal ini sangat disayangkan karena sistem manual membutuhkan waktu serta proses yang lama. Sehingga jadi faktor penghambat dalam proses pendataan penduduk.
 
 Dengan dirancang dan dibuatnya aplikasi kependudukan pada Kelurahan Sarijadi diharapkan dapat membantu instansi tersebut dalam pengelolaan data kependudukan. Sehingga mempercepat proses pembuatan dan penyampaian laporan tersebut ke kecamatan. Selain itu aplikasi ini diharapkan dapat membantu instansi pemerintah kelurahan dalam memonitoring perkembangan penduduknya.
 
-Berdasarkan latarbelakang masalah diatas, maka penulis tertarik untuk mengambil judul “Rancang Bangun Sistem Informasi Kependudukan pada Kelurahan Sarijadi Bandung Berbasis Web dengan CodeIgniter”
+Berdasarkan latar belakang permasalahan diatas, maka peneliti mengambil judul “Rancang Bangun Sistem Informasi Kependudukan pada Kelurahan Sarijadi Bandung Berbasis Web dengan CodeIgniter”
 
 Identifikasi Masalah
 
