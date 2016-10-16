@@ -22,7 +22,6 @@ Tujuan
 		3.	Menghasilkan informasi yang akurat dan tepat waktu
 
 Ruang Lingkup
-
 	Batasan masalah dalam penelitian ini adalah sebagai berikut :
 		1.	Aplikasi ini dibangun menggunakan bahasa pemograman PHP dan menggunakan database MySql dengan framework CI.
 		2.	Aplikasi ini dibuat di Kelurahan Sarijadi
