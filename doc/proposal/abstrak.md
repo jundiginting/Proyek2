@@ -1,7 +1,7 @@
-# ABSTRAK
+#ABSTRAK
 
-Sistem  informasi kependudukan merupakan sistem yang mempunyai peran sangat penting dalam pemerintahan dan pembangunan penyelengaraan data kependudukan  yang  diarahkan pada  pemenuhan hak dari setiap warga negara. Sejalan dengan arah penyelengaraan pendataan kependudukan, maka pendaftaran penduduk dan pencatatan sipil sebagai sub pilar kependudukan perlu ditata dengan sebaik-baiknya, agar dapat memberikan manfaat dalam perbaikan pemerintahan dan pembangunan, dimana pengelolaan data penduduk merupakan tanggung jawab  Pemerintahan Kabupaten/Kota, dalam pelaksanaanya diawali dari Rt/Rw/Kelurahan  dan Kecamatan  selaku ujung tombak pendataan penduduk.
-	
+Sistem  informasi kependudukan sangat penting dalam pemerintahan karena guna memantau penduduk di daerah tersebut. Dengan kegiatan pemerintah yaitu penyelengaraan pendataan kependudukan, maka pendaftaran kependudukan serta pencatatan sipil sebagai sub pilar kependudukan perlu ditata dengan lebih baik lagi, agar dapat memberi manfaat dalam perbaikan pemerintahan dan pembangunan, yang dimana pengelolaan data penduduk merupakan tanggung jawab dari instansi pemerintahan seperti kelurahan. 
+
 Sistem informasi kependudukan telah banyak dikembangkan oleh Pemerintah untuk mendukung pelayanan terhadap masyarakat, salah satu media yang dimanfaatkan oleh pemerintah adalah media teknologi informasi. Namun tidak semua instansi pemerintah sudah menggunakan sistem yang kompeterisasi dalam pengelolaan data kependudukan nya, melainkan masih menerapkan sistem manual contohnya pada kelurahan Sarijadi. Hal tersebut sangat disayangkan karena sistem manual akan membutuhkan waktu proses yang lama. Sehingga menjadikan faktor penghambat dalam proses pendataan penduduk. Oleh karena itu penulis mengambil judul “Rancang Bangun Sistem Informasi Kependudukan pada Kelurahan Sarijadi Bandung Berbasis Web dengan CodeIgniter”
 
 Kata kunci : Sistem Informasi, Kependudukan.
